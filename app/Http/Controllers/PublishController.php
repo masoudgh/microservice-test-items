@@ -12,5 +12,7 @@ class PublishController extends Controller
             'name' => 'Book 1',
             'author' => 'Masoud Gharagozlu'
         ]));
+
+        echo 'Published...!';
     }
 }
